@@ -1,0 +1,10 @@
+class Rectangle:                                                       #define class with 2 value 
+    def __init__(self, Lnum, Wnum):
+        self.Lnum = Lnum
+        self.Wnum = Wnum
+    
+    def area(self):                                                    #calulate area
+        return self.Lnum*self.Wnum
+    
+shape1=Rectangle(5,10)
+print("Area of the rectangle is: ", shape1.area())                     #show result
