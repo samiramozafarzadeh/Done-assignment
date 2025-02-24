@@ -1,2 +1,2 @@
 # Done-assignment
-We want to share and do homework toghether
+this little sample python code wrote a class for calculate area of the rectangle
